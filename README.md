@@ -1,1 +1,1 @@
-# MyNoor
+# project-noor
